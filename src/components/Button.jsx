@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import '../index.css';
 
 /**
  * Button component with different variants
@@ -66,4 +67,4 @@ Button.propTypes = {
   className: PropTypes.string,
 };
 
-export default Button; 
+export default Button;
